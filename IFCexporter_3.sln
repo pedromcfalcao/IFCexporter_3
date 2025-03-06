@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IFCexporter_3", "IFCexporter_3.csproj", "{7B5C29C2-168D-49D6-B533-3103851061C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{CB51A79B-B2D0-4541-9A28-ED81EB3BD2FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B5C29C2-168D-49D6-B533-3103851061C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5C29C2-168D-49D6-B533-3103851061C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5C29C2-168D-49D6-B533-3103851061C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5C29C2-168D-49D6-B533-3103851061C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
